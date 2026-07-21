@@ -15,7 +15,7 @@
 
 <a href="https://mughees-portfolio-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
 <a href="https://linkedin.com/in/mughees001"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
-<a href="mailto:mugheessiddiqui2007@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
+<a href="mailto:mugheessiddiqui202@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
 <a href="https://github.com/mughees001"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
 
 <br/><br/>
@@ -302,7 +302,7 @@ open_to:
 ## 📬 Connect
 
 <p align="center">
-<a href="mailto:mugheessiddiqui2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
+<a href="mailto:mugheessiddiqui202@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
 <a href="https://linkedin.com/in/mughees001"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
 <a href="https://github.com/mughees001"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
 <a href="https://mughees-portfolio-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
